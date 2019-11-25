@@ -1,0 +1,34 @@
+﻿<Window x:Class="Gæt_et_nummer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gæt_et_nummer"
+        mc:Ignorable="d"
+        Title="Gæt et tal" Height="400" Width="400">
+    <Border Padding="10">
+        <StackPanel>
+            <TextBlock Text="Gæt et tal mellem" FontWeight="Bold" FontSize="25"/>
+            <Grid Margin="0,20,10,0" Height="54">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <!-- Gættebjælke -->
+               
+                <TextBox x:Name="GætBjælke" Margin="0 0 10 0" Padding="2" FontSize="30"/>
+                
+
+                <!-- Buttons -->
+                <Button x:Name="Gæt" Click="Gæt_Click" Margin="0 0 10 0" Grid.Column="3" Content="Gæt" />
+                    
+            </Grid>
+
+           
+        </StackPanel>
+    </Border>
+
+
+</Window>
+    

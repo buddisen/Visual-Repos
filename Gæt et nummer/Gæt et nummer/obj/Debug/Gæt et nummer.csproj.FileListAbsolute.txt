@@ -1,0 +1,14 @@
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\bin\Debug\Gæt et nummer.exe.config
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\bin\Debug\Gæt et nummer.exe
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\bin\Debug\Gæt et nummer.pdb
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer.csprojAssemblyReference.cache
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\MainWindow.g.cs
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\App.g.cs
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer_MarkupCompile.cache
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer_MarkupCompile.lref
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\MainWindow.baml
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer.g.resources
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt_et_nummer.Properties.Resources.resources
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer.csproj.GenerateResource.cache
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer.exe
+C:\Users\ande10g9\source\repos\Visual-Repos\Gæt et nummer\Gæt et nummer\obj\Debug\Gæt et nummer.pdb
